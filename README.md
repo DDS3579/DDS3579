@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divya Darsheel Sharma.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node and React
-- 📫 You can contact me at divyadarsheel.dds@gmail.com
+- 📫 You can contact me <a href="mailto:divyadarsheel.dds@gmail.com">here</a>.
 
 
 <!---
