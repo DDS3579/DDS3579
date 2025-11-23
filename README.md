@@ -7,6 +7,8 @@ I run a growing digital agency, build products, and co-found tech initiatives wh
 
 👉 **Portfolio:** [https://dds3579.github.io/portfolio](https://dds3579.github.io/portfolio)
 
+👉 **LinkedIn:** [https://linkedin.com/in/dds3579](https://linkedin.com/in/dds3579)
+
 ---
 
 ## 🚀 **What I’m Building**
@@ -82,9 +84,6 @@ Representing the *International Computer Science Competition*
 
 * Ambitious builder with a startup mindset
 * Momentum > perfection
-* Workouts 6 days a week
-* College 10:30 AM → 5:30 PM + 4 hours of self-study
-* Big-picture, future-focused energy
 
 ---
 
