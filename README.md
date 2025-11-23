@@ -3,7 +3,7 @@
 **Founder • Frontend Developer • UI/UX Designer • ICSC Ambassador**
 
 I’m a 16-year-old builder from Nepal working at the intersection of design, code, and community.
-I run a growing digital agency, build products, and co-found tech initiatives — all while studying in Grade 11.
+I run a growing digital agency, build products, and co-found tech initiatives while studying in Grade 11.
 
 👉 **Portfolio:** [https://dds3579.github.io/portfolio](https://dds3579.github.io/portfolio)
 
@@ -24,7 +24,7 @@ Team:
 
 * Me (UI/UX, Web Design, Frontend)
 * Backend Dev (learning)
-* Digital Marketer (early stage)
+* Entrepreneur (early stage)
 * Partner full-stack dev company (2–3 yrs experience)
 
 ### **🌐 Co-Founder – HackDate Nepal (NGO)**
