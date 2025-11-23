@@ -1,10 +1,3 @@
-Absolutely — here’s your updated **full README** with your portfolio added cleanly and professionally.
-I placed it in a spot where recruiters/devs expect it: right under the intro + again in the “Connect” section.
-
-Copy–paste this into your `README.md`:
-
----
-
 # 🌟 **Hey, I’m Divya!**
 
 **Founder • Frontend Developer • UI/UX Designer • ICSC Ambassador**
