@@ -161,7 +161,7 @@ Fostering computational thinking and coding excellence among students globally
 - 🎨 Designing **production-ready UIs** with Figma & React
 - 🏆 Building **hackathon-level applications** using React + TypeScript
 - 📈 Growing **Digira** into a standout digital agency
-- 🤝 Scaling **HackDate Nepal's** developer community
+- 🤝 Scaling **Digira eSports** gaming community
 - 🤖 Using **AI tools** to create deep research documents, stories, and audiobooks
 
 ---
