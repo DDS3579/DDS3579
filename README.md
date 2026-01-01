@@ -1,8 +1,8 @@
 # 🌟 **Hey, I’m Divya!**
 
-**Founder • Frontend Developer • UI/UX Designer • ICSC Ambassador**
+**Founder • On the Road to FullStack Developer • UI/UX Designer • ICSC Ambassador**
 
-I’m a 16-year-old builder from Nepal working at the intersection of design, code, and community.
+I’m a 17-year-old builder from Nepal working at the intersection of design, code, and community.
 I run a growing digital agency, build products, and co-found tech initiatives while studying in Grade 11.
 
 👉 **Portfolio:** [https://dds3579.github.io/portfolio](https://dds3579.github.io/portfolio)
@@ -13,7 +13,11 @@ I run a growing digital agency, build products, and co-found tech initiatives wh
 
 ## 🚀 **What I’m Building**
 
-### **👨‍💼 Founder – Digira (Digiragency)**
+### **👨‍💼 Founder – Digira **
+
+Currently, Digira comprises of Digiragency (a digital agency) & Digira eSports (a esports community)
+
+#### **Digiragency**
 
 A modern Nepali digital agency focused on:
 
@@ -22,20 +26,9 @@ A modern Nepali digital agency focused on:
 * Branding & Digital Solutions
 * Product-focused service packages for the local market
 
-Team:
+#### **Digira eSports** 
 
-* Me (UI/UX, Web Design, Frontend)
-* Backend Dev (learning)
-* Entrepreneur (early stage)
-* Partner full-stack dev company (2–3 yrs experience)
-
-### **🌐 Co-Founder – HackDate Nepal (NGO)**
-
-A nationwide initiative to empower young developers:
-
-* Connect CS ambassadors from Grades 11–Bachelor’s
-* Organize tech events, hackathons, workshops
-* Build one of Nepal’s strongest student developer communities
+A eSports community promoting the growth of young gamers and providing them with a platform to showcase their talent.
 
 ### **🎖 ICSC Ambassador**
 
