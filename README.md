@@ -86,7 +86,7 @@ Community platform empowering young gamers to showcase talent and compete
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire"> **International Computer Science Competition**
 
-Representing [icscompetition.org](https://icscompetition.org)
+Representing [icscompetition.org](https://icscompetition.org/dsharma)
 
 Fostering computational thinking and coding excellence among students globally
 
