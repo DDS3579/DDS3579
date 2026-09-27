@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Divya%20Darsheel%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%7C%20Ecosystem%20Architect%20%7C%20Builder&descAlignY=58&descSize=20&descColor=ffffff" />
+<img src="./banner.svg" width="100%" alt="Divya Darsheel Sharma" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F7AEA&center=true&vCenter=true&random=false&width=650&lines=AI+%2B+IoT+%2B+Robotics;Full-Stack+Developer;Shipping+in+Public;Building+an+Ecosystem%2C+not+just+an+App" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9F7AEA&center=true&vCenter=true&random=false&width=650&lines=AI+%2B+IoT+%2B+Robotics;Full-Stack+Developer;Shipping+in+Public;Building+an+Ecosystem%2C+not+just+an+App" alt="Typing SVG" />
 
 <br><br>
 
@@ -26,6 +26,25 @@
 </div>
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3" />
+
+<div align="center">
+
+## 📊 By The Numbers
+
+<img src="https://img.shields.io/badge/Contributions_(last_12mo)-1,428-667EEA?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Longest_Streak-25_days-667EEA?style=for-the-badge&labelColor=1a1a2e" />
+<br>
+<img src="https://img.shields.io/badge/Public_Repos-50-9F7AEA?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Stars_Earned-60-9F7AEA?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Followers-17-9F7AEA?style=for-the-badge&labelColor=1a1a2e" />
+
+<sub>Pulled straight from the GitHub contribution graph as of Sep 27, 2026 — the live cards further down keep these fresh automatically.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3" />
 
 <div align="center">
 
