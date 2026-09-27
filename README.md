@@ -6,15 +6,15 @@
 </h1>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=64748B&center=true&vCenter=true&random=false&width=600&lines=Founder+%7C+Builder+%7C+Designer;MERN+Stack+Developer;ICSC+Ambassador;Creating+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=64748B&center=true&vCenter=true&random=false&width=650&lines=Founder+%7C+Ecosystem+Architect+%7C+Builder;AI+%2B+IoT+%2B+Robotics;Full-Stack+Developer;Shipping+in+Public" alt="Typing SVG" />
 </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/dds3579">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="https://dds3579.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
+  <a href="https://divyadsharma.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-divyadsharma.com.np-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
   </a>
   <a href="https://github.com/dds3579">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
@@ -27,26 +27,45 @@
 
 <br>
 
-<!-- About Me Section - Clean & Minimalistic -->
+<!-- About Me Section -->
 <div align="center">
-  
+
 ## 🌟 About Me
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 <br><br>
 
-**17-year-old builder from Nepal** 🇳🇵 working at the intersection of **design, code, and community**
+**18-year-old founder from Nepal** 🇳🇵 building an entire ecosystem at the intersection of **AI, code, and community**
 
-Currently in **Grade 11** • Running a digital agency • Building products • Co-founding tech initiatives
+Currently in **Grade 12** • Running **Digira** (agency + esports + education) • President of **NSS Clubs** • Building at the edge of AI, IoT & Robotics
 
 <br>
 
 > *"Momentum > Perfection"* 🚀
-> 
-> Building fast • Learning faster • Creating impact
+>
+> Not building a product. Building an ecosystem.
 
 <br>
+
+</div>
+
+<br>
+
+<!-- Ecosystem Map -->
+<div align="center">
+
+## 🗺️ The Digira Ecosystem
+
+```mermaid
+graph LR
+    A[🏢 Digira] --> B[Digiragency<br/>Digital Agency]
+    A --> C[Digira Esports<br/>MLBB Tournaments]
+    A --> D[Digira Education<br/>Tech Education]
+    B --> E((Founder & Backend<br/>AI Agents • Finance))
+    C --> E
+    D --> E
+```
 
 </div>
 
@@ -61,40 +80,37 @@ Currently in **Grade 11** • Running a digital agency • Building products •
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏢 Digira Ecosystem
+### 🏢 Digiragency
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Digiragency**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
 Modern digital agency delivering:
 ```
-→ UI/UX Design & Product Design
-→ Web Design & Frontend Development  
+→ UI/UX & Product Design
+→ Web Design & Frontend Dev
 → Branding & Digital Solutions
-→ Product-focused packages
+→ AI Agents & Backend Systems
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30"> **Digira eSports**
-
-Community platform empowering young gamers to showcase talent and compete
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🎖️ ICSC Ambassador
+### 🎮 Digira Esports
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire"> **International Computer Science Competition**
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30">
 
-Representing [icscompetition.org](https://icscompetition.org/dsharma)
+Community platform running **MLBB (Mobile Legends: Bang Bang)** tournaments across Nepal, empowering young gamers to compete and get discovered.
 
-Fostering computational thinking and coding excellence among students globally
+</td>
+<td width="33%" valign="top">
 
-```
-✓ Promoting competitive programming
-✓ Building tech communities
-✓ Inspiring next-gen developers
-```
+### 🎓 Digira Education
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30">
+
+The newest branch of the ecosystem — bringing practical, hands-on tech & AI education to students in Nepal.
 
 </td>
 </tr>
@@ -102,7 +118,37 @@ Fostering computational thinking and coding excellence among students globally
 
 <br>
 
-<!-- Skills Section with Better Visuals -->
+<!-- Roles Section -->
+<div align="center">
+
+## 🎖️ Roles & Recognition
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**ICSC Ambassador**
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" alt="Fire">
+
+Representing the **International Computer Science Competition** — [icscompetition.org](https://icscompetition.org/dsharma) — promoting competitive programming and computational thinking globally.
+
+</td>
+<td width="50%" valign="top">
+
+**President, NSS Clubs**
+
+Leading a 56+ member student club at National School of Sciences — organizing Tech Fest, Olympiad initiatives, and community-driven tech events.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Skills Section -->
 <div align="center">
 
 ## 💻 Tech Arsenal
@@ -113,37 +159,49 @@ Fostering computational thinking and coding excellence among students globally
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,typescript,js,tailwind,vite&theme=dark" />
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,js,tailwind,vite&theme=dark" />
 
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
-### Backend (Learning)
+### Backend & Languages
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb&theme=dark" />
 
 </td>
-<td width="33%" align="center">
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### AI, Automation & Agents
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Mastra-6366F1?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat&logoColor=white" />
+
+</td>
+<td width="50%" align="center">
+
+### IoT & Robotics
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Robotics-2D3748?style=flat&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 ### Design & Tools
 
 <img src="https://skillicons.dev/icons?i=figma,git,vscode,postman&theme=dark" />
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 
 </td>
 </tr>
@@ -157,12 +215,12 @@ Fostering computational thinking and coding excellence among students globally
 
 ## 🎯 Current Focus
 
-- 🔥 Becoming **MERN-stack ready** for full-stack development
-- 🎨 Designing **production-ready UIs** with Figma & React
-- 🏆 Building **hackathon-level applications** using React + TypeScript
-- 📈 Growing **Digira** into a standout digital agency
-- 🤝 Scaling **Digira eSports** gaming community
-- 🤖 Using **AI tools** to create deep research documents, stories, and audiobooks
+- 🏢 Scaling the **full Digira ecosystem** — agency, esports, and education, together
+- 🤖 Diving into **Robotics + IoT**, layered with AI agents
+- 🐍 Building backend systems and agents in **Python + FastAPI**
+- ⚙️ Designing **agentic AI workflows** with n8n, LangGraph, Mastra & Ollama
+- 🎨 Shipping **premium, production-ready** web experiences in Next.js
+- 🤝 Leading **NSS Clubs** (56+ members) and representing **ICSC** globally
 
 ---
 
@@ -190,11 +248,11 @@ Fostering computational thinking and coding excellence among students globally
 ## 🏆 Achievements & Highlights
 
 ```
-🚀  Founder of Digira - Running a digital agency & eSports community
-🎖️  ICSC Ambassador - Representing international CS competition
-💼  Building real-world products while in Grade 11
-🎨  Creating production-ready designs in Figma
-📚  Consistent learner with a startup mindset
+🏢  Founder of Digira - a full ecosystem: agency, esports & education
+🎖️  ICSC Ambassador - representing an international CS competition
+👥  President of NSS Clubs - leading 56+ members
+🤖  Expanding into Python, AI x IoT, and Robotics
+💼  Building real-world products & ventures while in Grade 12
 🌟  Momentum > Perfection advocate
 ```
 
@@ -202,11 +260,11 @@ Fostering computational thinking and coding excellence among students globally
 
 ## 📬 Let's Connect!
 
-I'm always open to collaborations on products, community initiatives, or anything involving **design + code**.
+I'm always open to collaborations on products, ventures, or anything at the intersection of **AI, code, and community**.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dds3579.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dds3579.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-divyadsharma.com.np-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://divyadsharma.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dds3579-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dds3579)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
@@ -216,8 +274,8 @@ I'm always open to collaborations on products, community initiatives, or anythin
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  
+
   <br><br>
-  
+
   **Thanks for visiting!** ⭐️ *Star some repositories if you find them interesting!*
 </div>
